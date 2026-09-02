@@ -1,0 +1,50 @@
+{
+  "name": "campusgenie",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Event discovery and institutional compliance platform for college students on Databricks",
+  "scripts": {
+    "start": "node server/dist/index.js",
+    "dev:server": "tsx watch server/src/index.ts",
+    "dev:client": "vite client",
+    "build:client": "vite build client",
+    "build:server": "tsc -p server",
+    "build": "npm run build:client && npm run build:server",
+    "seed": "tsx server/src/data/seedGenerator.ts",
+    "test": "node tests/run_all_tests.js",
+    "test:benchmark": "node tests/benchmark_golden_questions.js",
+    "test:tier1": "node tests/tier1_feature_tests.js",
+    "test:tier2": "node tests/tier2_boundary_tests.js",
+    "test:tier3": "node tests/tier3_pairwise_tests.js",
+    "test:tier4": "node tests/tier4_realworld_tests.js"
+  },
+  "dependencies": {
+    "@databricks/sql": "^1.8.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "lucide-react": "^0.475.0",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.13.4",
+    "@types/pg": "^8.11.11",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.18.2",
+    "postcss": "^8.5.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vite": "^5.4.14"
+  }
+}

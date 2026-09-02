@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ink: #14161B;         /* crisp text, borders */
+  --paper: #EEF0EC;       /* page ground, faint green cast */
+  --paper-card: #F7F9F5;  /* card ground */
+  --pulse: #2C4BFF;       /* primary action, electric blue */
+  --flare: #FF5A3C;       /* hackathons, urgency, warm orange-red */
+  --acid: #D9F24B;        /* highlights, new state, neon yellow-green */
+  --slate: #6E7480;       /* secondary text, muted */
+}
+
+body {
+  margin: 0;
+  background-color: var(--paper);
+  color: var(--ink);
+  font-family: 'Satoshi', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: 'Clash Display', sans-serif;
+}
+
+/* Custom crisp scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--paper);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--slate);
+  border: 2px solid var(--paper);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink);
+}

@@ -1,0 +1,86 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /Name /F2 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 1815 >>
+stream
+0.15 0.25 0.65 rg
+54 750 504 3 re f
+0 0 0 rg
+BT /F1 16 Tf
+54 725 Td (POL-IP-2025: Campus Intellectual Property & Hackathon Project O) Tj ET
+BT /F1 14 Tf
+54 707 Td (wnership Code) Tj ET
+BT /F2 9 Tf 0.3 0.3 0.35 rg
+54 689 Td (Authority: Institutional Research & Innovation Council \(IRIC\)  |  Effective: January 1, 2025) Tj ET
+0.8 0.8 0.8 rg
+54 675 504 1 re f
+0 0 0 rg
+BT /F1 11 Tf
+54 650 Td (Clause 8.1 - Student Ownership of Hackathon Creations) Tj ET
+0.1 0.1 0.1 rg
+BT /F2 10 Tf
+68 634 Td
+(All source code, software prototypes, designs, algorithms, and intellectual) Tj
+0 -13 Td (property conceived and created solely by students during hackathons, workshops, or) Tj
+0 -13 Td (extracurricular innovation challenges belong 100% to the student team members.) Tj
+ET
+0 0 0 rg
+BT /F1 11 Tf
+54 581 Td (Clause 8.2 - Sponsor and Organizer License Restrictions) Tj ET
+0.1 0.1 0.1 rg
+BT /F2 10 Tf
+68 565 Td
+(Event sponsors and host colleges may retain non-exclusive rights to showcase,) Tj
+0 -13 Td (demonstrate, and archive project submissions for evaluation and promotional) Tj
+0 -13 Td (purposes, but acquire no equity, proprietary license, or patent rights without) Tj
+0 -13 Td (explicit written student consent.) Tj
+ET
+0 0 0 rg
+BT /F1 11 Tf
+54 499 Td (Clause 8.3 - Open Source and Foundation Model Attribution) Tj ET
+0.1 0.1 0.1 rg
+BT /F2 10 Tf
+68 483 Td
+(Student projects utilizing third-party open-source libraries or hosted foundation) Tj
+0 -13 Td (model APIs \(e.g. Databricks DBRX, OpenAI, Anthropic, HuggingFace\) must maintain) Tj
+0 -13 Td (proper licensing attribution and declare dependencies in the project repository.) Tj
+ET
+0.7 0.7 0.7 rg
+54 40 504 0.5 re f
+BT /F2 8 Tf 0.4 0.4 0.4 rg
+54 28 Td (Official Campus Policy Corpus ∑ Unity Catalog Volume: /Volumes/campusgenie/docs/policies/POL-IP-2025.pdf) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000110 00000 n 
+0000000167 00000 n 
+0000000252 00000 n 
+0000000332 00000 n 
+0000000468 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R /Info << /Title (Campus Intellectual Property & Hackathon Project Ownership Code) /Creator (CampusGenie) >> >>
+startxref
+2335
+%%EOF

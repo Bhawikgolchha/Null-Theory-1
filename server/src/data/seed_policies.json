@@ -1,0 +1,69 @@
+[
+  {
+    "doc_id": "POL-OD-2025",
+    "title": "Bangalore Technical Universities General Regulations on On-Duty (OD) Leave",
+    "category": "attendance_leave",
+    "college": "All Affiliated Engineering Colleges",
+    "clauses": [
+      {
+        "clause_number": "Clause 4.1",
+        "heading": "Eligibility for On-Duty (OD) Leave",
+        "text": "A student maintaining a minimum cumulative class attendance of 75% prior to the event date is eligible to apply for up to three (3) consecutive working days of On-Duty (OD) leave per semester for recognized collegiate hackathons, technical conferences, or inter-university competitions."
+      },
+      {
+        "clause_number": "Clause 4.2",
+        "heading": "Mandatory Prior Written Permission",
+        "text": "To claim OD attendance waiver, the student must submit an official permission letter signed by the Faculty Advisor and Head of Department (HoD) at least forty-eight (48) hours before the event commencement."
+      },
+      {
+        "clause_number": "Clause 4.3",
+        "heading": "Participation Verification Requirement",
+        "text": "Upon returning, the student must produce a verified Certificate of Participation or verified Attendance Record issued by the organizing body within three (3) working days to confirm attendance credit."
+      }
+    ]
+  },
+  {
+    "doc_id": "POL-IP-2025",
+    "title": "Campus Intellectual Property & Hackathon Project Ownership Code",
+    "category": "intellectual_property",
+    "college": "Institutional Research & Innovation Council",
+    "clauses": [
+      {
+        "clause_number": "Clause 8.1",
+        "heading": "Student Ownership of Hackathon Creations",
+        "text": "All source code, software prototypes, designs, and intellectual property conceived and created solely by students during hackathons, workshops, or extracurricular events belong 100% to the student team members."
+      },
+      {
+        "clause_number": "Clause 8.2",
+        "heading": "Sponsor and Organizer License Restrictions",
+        "text": "Event sponsors and host colleges may retain non-exclusive rights to showcase, demonstrate, and archive project submissions for evaluation and promotional purposes, but acquire no equity, proprietary license, or patent rights without explicit written student consent."
+      }
+    ]
+  },
+  {
+    "doc_id": "POL-CODE-2025",
+    "title": "Inter-Collegiate Hackathon Code of Conduct & Ethics",
+    "category": "ethics",
+    "college": "Consortium of Bangalore Engineering Institutes",
+    "clauses": [
+      {
+        "clause_number": "Clause 2.1",
+        "heading": "Pre-existing Work Disclosure",
+        "text": "All projects submitted for judging must be developed during the designated hackathon hack period. Third-party open-source libraries and public foundation models (e.g., HuggingFace, Databricks DBRX, OpenAI APIs) are permitted provided they are disclosed in the project readme."
+      }
+    ]
+  },
+  {
+    "doc_id": "POL-REIMB-2025",
+    "title": "Student Travel Grant & Competitive Representation Reimbursement Policy",
+    "category": "finance",
+    "college": "Student Welfare Directorate",
+    "clauses": [
+      {
+        "clause_number": "Clause 5.1",
+        "heading": "Travel and Registration Grants",
+        "text": "Teams selected for finals of national-level hackathons with prize pools exceeding INR 1,00,000 are eligible for up to 100% travel reimbursement (second sleeper train/bus fare) and entry fee waiver subject to Dean approval."
+      }
+    ]
+  }
+]
